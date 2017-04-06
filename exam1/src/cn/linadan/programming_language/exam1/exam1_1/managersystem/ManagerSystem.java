@@ -16,7 +16,6 @@ public class ManagerSystem {
 		double grade = s.nextDouble();
 		System.out.print("Äê¼¶£º");
 		int year = s.nextInt();
-		
 	}
 
 }
